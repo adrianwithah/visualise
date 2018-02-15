@@ -4,6 +4,9 @@ Visualisation of concepts in 3D space using Augmented Reality
 # Visualisations available
 - Linear Algebra
 
+# Installation
+Transfer Visualise.apk file into phone. Opening the file will lead to installation of the app.
+
 # Usage
 
 Open App. Once Camera feed is activated, point the camera at one of the recognizable markers such as the one below.
